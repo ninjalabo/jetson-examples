@@ -1,0 +1,5 @@
+Training model resnet18 with Imagenette 
+
+epoch	train_loss	valid_loss	accuracy	time
+0	0.226715848	0.059745766	0.978853524	23:45
+0	0.101796016	0.056523837	0.982420385	35:22
