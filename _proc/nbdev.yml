@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "jetson-examples"
+  site-url: "https://ninjalabo.github.io/jetson-examples"
+  description: "Example Machine Learning projects running on Jetson device"
+  repo-branch: main
+  repo-url: "https://github.com/ninjalabo/jetson-examples"
