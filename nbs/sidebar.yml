@@ -3,3 +3,4 @@ website:
     contents:
       - index.ipynb
       - 01_fastai.ipynb
+      - 02_tensorrt.ipynb
